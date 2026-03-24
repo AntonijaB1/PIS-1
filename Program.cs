@@ -10,6 +10,7 @@ namespace PIS_AntonijaBatinic
     {
         static void Main(string[] args)
         {
+            int a = 5;
         }
     }
 }
